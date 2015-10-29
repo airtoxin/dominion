@@ -1,0 +1,8 @@
+{
+    "application": {
+        "server": {
+            "host": "localhost",
+            "port": 9898
+        }
+    }
+}
