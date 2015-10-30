@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "start": "node dist/backend/app.js",
+    "dev": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "airtoxin <airtoxin@icloud.com>",
